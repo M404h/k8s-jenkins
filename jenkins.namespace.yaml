@@ -11,7 +11,7 @@ metadata:
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: test
+  name: theta
 ---
 kind: Namespace
 apiVersion: v1
